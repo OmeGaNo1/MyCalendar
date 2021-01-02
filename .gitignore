@@ -62,3 +62,6 @@ buck-out/
 
 # CocoaPods
 /ios/Pods/
+
+# P.293 Jestによるテスト結果の出力先、管理しない。
+coverage
